@@ -6,4 +6,4 @@ This site hosts documentation for the [Gufo Labs](https://gufolabs.com/) project
 * [Gufo Err](/gufo_err/)
 * [Gufo Ping](/gufo_ping/)
 * [Gufo Liftbridge](/gufo_liftbridge/)
-
+* [Gufo Traceroute](/gufo_traceroute/)
