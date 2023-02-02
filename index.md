@@ -7,3 +7,4 @@ This site hosts documentation for the [Gufo Labs](https://gufolabs.com/) project
 * [Gufo Ping](/gufo_ping/)
 * [Gufo Liftbridge](/gufo_liftbridge/)
 * [Gufo Traceroute](/gufo_traceroute/)
+* [Gufo SNMP](/gufo_snmp/)
