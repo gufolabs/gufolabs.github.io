@@ -8,3 +8,4 @@ This site hosts documentation for the [Gufo Labs](https://gufolabs.com/) project
 * [Gufo Liftbridge](/gufo_liftbridge/)
 * [Gufo Traceroute](/gufo_traceroute/)
 * [Gufo SNMP](/gufo_snmp/)
+* [Gufo Agent](/gufo_agent/)
