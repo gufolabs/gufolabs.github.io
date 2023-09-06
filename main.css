@@ -1,0 +1,155 @@
+body {
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+    background-color: rgb(46, 48, 62);
+    color: #ffffff;
+}
+
+section {
+    padding: 8px;
+}
+
+.mdx-hero {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-container {
+    padding: 2rem 0;
+    background: url(horizon.svg),
+        linear-gradient(rgb(126, 86, 194),
+            rgb(82, 108, 254) 99%,
+            rgb(46, 48, 62) 0px);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.hero-image {
+    order: 1;
+}
+
+.hero-image img {
+    height: auto;
+    max-width: 100%;
+    animation: Sway 10s ease-in-out infinite;
+    filter: invert(85%);
+}
+
+.hero-content {
+    margin-top: 5rem;
+    padding-bottom: 20vh;
+    text-align: right;
+    margin-right: 2rem;
+}
+
+.hero-content h1 {
+    font-weight: 700;
+    margin-bottom: 1rem;
+    font-size: 2em;
+}
+
+a,
+a:visited {
+    color: #ffffff;
+}
+
+.main .items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item {
+    margin: 4px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.item .title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.item .description {
+    font-style: italic;
+    text-align: center;
+}
+
+.gs {
+    width: 100px;
+    height: 38px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gufo-loader {
+    background-color: #3498db;
+}
+
+.gufo-err {
+    background-color: #c0392b;
+}
+
+.gufo-ping {
+    background-color: #d35400;
+}
+
+.gufo-liftbridge {
+    background-color: #7f8c8d;
+}
+
+.gufo-traceroute {
+    background-color: #e67e22;
+}
+
+.gufo-snmp {
+    background-color: #16a085;
+}
+
+.gufo-agent {
+    background-color: #8e44ad;
+}
+
+.items a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
+
+@keyframes Sway {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(20px);
+    }
+}
+
+@media screen and (min-width: 960px) {
+    .mdx-hero {
+        display: flex;
+        align-items: stretch;
+    }
+
+    .hero-image {
+        width: 50%;
+    }
+
+    .hero-content {
+        width: 50%;
+    }
+}

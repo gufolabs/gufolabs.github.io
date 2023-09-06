@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://docs.gufolabs.com/gufo_loader/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://docs.gufolabs.com/gufo_err/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://docs.gufolabs.com/gufo_ping/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://docs.gufolabs.com/gufo_liftbridge/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://docs.gufolabs.com/gufo_traceroute/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://docs.gufolabs.com/gufo_snmp/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://docs.gufolabs.com/gufo_agent/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
