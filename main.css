@@ -123,6 +123,10 @@ a:visited {
     background-color: #27ae60;
 }
 
+.csr-proxy {
+    background-color: #9b59b6;
+}
+
 .items a {
     text-decoration: none;
 }
