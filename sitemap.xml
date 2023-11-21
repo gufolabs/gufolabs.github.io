@@ -27,4 +27,7 @@
   <sitemap>
     <loc>https://docs.gufolabs.com/csr_proxy/sitemap.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://docs.gufolabs.com/gufo_thor/sitemap.xml</loc>
+  </sitemap>
 </sitemapindex>
