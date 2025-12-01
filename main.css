@@ -135,6 +135,10 @@ a:visited {
     background-color: #f1c40f;
 }
 
+.gufo-font {
+    background-color: #c0392b;
+}
+
 .items a {
     text-decoration: none;
 }
